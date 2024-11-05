@@ -118,10 +118,9 @@ We aim to integrate guest checkout and subscription-based services into an exist
 | Payment Integration             | 1 week             |
 | Analytics Dashboard Enhancement | 1-2 weeks          |
 | Testing & Quality Assurance     | 1-2 weeks          |
-| Documentation & Training        | 1 week             |
 | Deployment                      | 1 week             |
 
-**Total Duration**: 10-13 weeks
+**Total Duration**: 09-12 weeks
 
 ---
 
